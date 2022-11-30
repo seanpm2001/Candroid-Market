@@ -1,0 +1,1 @@
+Candroid Market is a replacement for the older Android Market for the Candroid framework/environment. It is designed differently than the Candroid App Store. The Candroid Market is a single distribution APK front.
